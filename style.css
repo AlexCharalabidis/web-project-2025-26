@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fafafa;
+  color: #333;
+}
+
+p {
+  font-size: 18px;
+  margin: 10px 0;
+}
+<link rel="stylesheet" href="style.css">
+
+li{
+    float: left;
+    background: #808080;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+    color: white;
+    font-size: 30px
+}
+li:hover{
+    background: #AA2020;
+}
+ul{
+    list-style-type: none;
+}
+

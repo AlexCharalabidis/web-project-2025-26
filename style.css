@@ -1,29 +1,49 @@
+@font-face {
+  font-family: typeWriter; /* set name */
+  src: url(JMHTypewriter.otf);
+}
 body {
-  font-family: Arial, sans-serif;
-  background-color: #fafafa;
-  color: #333;
+  font-family: typeWriter;
+  background-color: #946E78;
+  color: #009C8C;
 }
 
 p {
   font-size: 18px;
   margin: 10px 0;
 }
-
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    'menu';
+  gap: 10px;  
+}
+.button{
+	background-color: EBD2C0;
+	text-align: center;
+	padding: 30px 10%;	
+	font-size: 50px;
+	
+}
+.menu {
+  grid-area: menu;
+  }
 li{
-    float: left;
-    background: #808080;
+    background: #EBD2C0;
     padding-top: 15px;
     padding-bottom: 15px;
-    padding-left: 30px;
-    padding-right: 30px;
     text-align: center;
-    color: white;
-    font-size: 30px
+    color: #009C8C;
+    font-size: 30px;
+	
 }
 li:hover{
     background: #AA2020;
 }
 ul{
     list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 100%;
 }
 

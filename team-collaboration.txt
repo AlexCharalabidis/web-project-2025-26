@@ -1,7 +1,5 @@
 
-Team member: Δέσπονα Φιλαρέτου (DespoinaFilaretou),
-Team Members: Αλέξης Χαραλαμπίδης (AlexCharalabidis),
-Team member: Γιάννης Καρωούνης (ynkrv32).
+Team Members: Δέσπονα Φιλαρέτου (DespoinaFilaretou),Αλέξης Χαραλαμπίδης (AlexCharalabidis),Γιάννης Καρωούνης (ynkrv32).
 
 Project:web-project-2025-26
 
